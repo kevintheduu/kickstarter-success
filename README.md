@@ -1,4 +1,4 @@
-# Future Vision
+# Predicting Kickstarter Success Likelihoods
 ![kickstarter image](kickstarter.png)
 
 By Sherry Yang and  Kevin Velasco
